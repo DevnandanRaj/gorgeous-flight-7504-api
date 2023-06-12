@@ -1,0 +1,249 @@
+{
+  "users": [
+    {
+      "username": "Dev",
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka",
+      "id": 1
+    }
+],
+"groceries":[
+  {
+    "id": 1,
+    "name": "Peach - Indian",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40218330_1-fresho-peach-indian.jpg?tr=w-3840,q=80",
+    "price": 150
+  },
+  {
+    "id": 2,
+    "name": "Onion",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/1201414_1-fresho-onion.jpg?tr=w-3840,q=80",
+    "price": 125
+  },
+  {
+    "id": 3,
+    "name": "Ladies' Fingers (Loose)",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000142_16-fresho-ladies-finger.jpg?tr=w-3840,q=80",
+    "price": 74
+  },
+  {
+    "id": 4,
+    "name": "Banganapalli Mango",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000298_10-fresho-banganapalli-mango.jpg?tr=w-3840,q=80",
+    "price": 78
+  },
+  {
+    "id": 5,
+    "name": "Tomato - Local",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000203_16-fresho-tomato-local.jpg?tr=w-3840,q=80",
+    "price": 41
+  },
+  {
+    "id": 6,
+    "name": "Banana - Yelakki",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000031_21-fresho-banana-yelakki.jpg?tr=w-3840,q=80",
+    "price": 70
+  },
+  {
+    "id": 7,
+    "name": "Chilli - Green Long, Medium (Loose)",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000082_19-fresho-chilli-green-long-medium.jpg?tr=w-3840,q=80",
+    "price": 25
+  },
+  {
+    "id": 8,
+    "name": "Pomegranate - Regular (Loose)",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40120006_5-fresho-pomegranate-small.jpg?tr=w-3840,q=80",
+    "price": 189
+  },
+  {
+    "id": 9,
+    "name": "Coconut - Medium",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000093_16-fresho-coconut-medium.jpg?tr=w-3840,q=80",
+    "price": 25
+  },
+  {
+    "id": 10,
+    "name": "Cucumber (Loose)",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000057_16-fresho-cucumber.jpg?tr=w-3840,q=80",
+    "price": 15
+  },
+  {
+    "id": 11,
+    "name": "Apple - Shimla",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000110_9-fresho-apple-shimla.jpg?tr=w-3840,q=80",
+    "price": 95
+  },
+  {
+    "id": 12,
+    "name": "Carrot - Local",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000220_16-fresho-carrot.jpg?tr=w-3840,q=80",
+    "price": 22
+  },
+  {
+    "id": 13,
+    "name": "Orange - Nagpuri",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000066_16-fresho-orange-nagpuri.jpg?tr=w-3840,q=80",
+    "price": 80
+  },
+  {
+    "id": 14,
+    "name": "Potato",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000012_16-fresho-potato.jpg?tr=w-3840,q=80",
+    "price": 25
+  },
+  {
+    "id": 15,
+    "name": "Grapes - Black Seedless",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000036_16-fresho-grapes-black-seedless.jpg?tr=w-3840,q=80",
+    "price": 160
+  },
+  {
+    "id": 16,
+    "name": "Lemon",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000077_16-fresho-lemon.jpg?tr=w-3840,q=80",
+    "price": 10
+  },
+  {
+    "id": 17,
+    "name": "Cauliflower",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000152_16-fresho-cauliflower.jpg?tr=w-3840,q=80",
+    "price": 55
+  },
+  {
+    "id": 18,
+    "name": "Watermelon - Kiran",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000154_16-fresho-watermelon-kiran.jpg?tr=w-3840,q=80",
+    "price": 55
+  },
+  {
+    "id": 19,
+    "name": "Brinjal - Bharta (Loose)",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000163_16-fresho-brinjal-bharta-loose.jpg?tr=w-3840,q=80",
+    "price": 25
+  },
+  {
+    "id": 20,
+    "name": "Pear - Nashpati",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000121_16-fresho-pear-nashpati.jpg?tr=w-3840,q=80",
+    "price": 70
+  },
+  {
+    "id": 21,
+    "name": "Radish",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000062_16-fresho-radish.jpg?tr=w-3840,q=80",
+    "price": 12
+  },
+  {
+    "id": 22,
+    "name": "Papaya",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000093_16-fresho-papaya.jpg?tr=w-3840,q=80",
+    "price": 45
+  },
+  {
+    "id": 23,
+    "name": "Broccoli",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000166_16-fresho-broccoli.jpg?tr=w-3840,q=80",
+    "price": 65
+  },
+  {
+    "id": 24,
+    "name": "Mango - Alphonso",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000079_16-fresho-mango-alphonso.jpg?tr=w-3840,q=80",
+    "price": 150
+  },
+  {
+    "id": 25,
+    "name": "Spinach - Palak",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000155_16-fresho-spinach-palak.jpg?tr=w-3840,q=80",
+    "price": 20
+  },
+  {
+    "id": 26,
+    "name": "Pomegranate - Bhagwa",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000137_16-fresho-pomegranate-bhagwa.jpg?tr=w-3840,q=80",
+    "price": 90
+  },
+  {
+    "id": 27,
+    "name": "Cabbage",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000161_16-fresho-cabbage.jpg?tr=w-3840,q=80",
+    "price": 35
+  }, {
+    "id": 29,
+    "name": "Capsicum - Green",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000159_16-fresho-capsicum-green.jpg?tr=w-3840,q=80",
+    "price": 30
+  },
+  {
+    "id": 30,
+    "name": "Orange - Kinnow",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000082_16-fresho-orange-kinnow.jpg?tr=w-3840,q=80",
+    "price": 40
+  },
+  {
+    "id": 31,
+    "name": "Zucchini",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000162_16-fresho-zucchini.jpg?tr=w-3840,q=80",
+    "price": 40
+  },
+  {
+    "id": 32,
+    "name": "Grapes - Thompson Seedless",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000115_16-fresho-grapes-thompson-seedless.jpg?tr=w-3840,q=80",
+    "price": 80
+  },
+  {
+    "id": 33,
+    "name": "Lettuce - Iceberg",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000152_16-fresho-lettuce-iceberg.jpg?tr=w-3840,q=80",
+    "price": 40
+  },
+  {
+    "id": 34,
+    "name": "Watermelon",
+    "category": "fruit",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000095_16-fresho-watermelon.jpg?tr=w-3840,q=80",
+    "price": 35
+  },
+  {
+    "id": 35,
+    "name": "Carrot",
+    "category": "vegetable",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/10000057_16-fresho-carrot.jpg?tr=w-3840,q=80",
+    "price": 18
+  }
+]
+}
