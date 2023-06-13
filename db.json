@@ -244,6 +244,118 @@
     "category": "vegetable",
     "image": "https://www.bigbasket.com/media/uploads/p/m/10000057_16-fresho-carrot.jpg?tr=w-3840,q=80",
     "price": 18
+  },
+  {
+    "id": 36,
+    "category": "Bakery",
+    "name": "Marvella - Layered Strawberry Cake, Rich Taste, Perfect Treat",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40296405_1-lavian-exotique-marvella-layered-strawberry-cake-rich-taste-perfect-treat.jpg?tr=w-3840,q=80",
+    "price": 225
+  },
+  {
+    "id": 37,
+    "category": "Dairy",
+    "name": "Taaza Homogenised Toned Milk",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/306926_4-amul-homogenised-toned-milk.jpg?tr=w-3840,q=80",
+    "price": 69
+  },
+  {
+    "id": 38,
+    "category": "Bakery",
+    "name": "Marvella - Layered Chocolate Cake, Perfect Sweet Treat",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40296404_1-lavian-exotique-marvella-layered-chocolate-cake-perfect-sweet-treat.jpg?tr=w-3840,q=80",
+    "price": 225
+  },
+  {
+    "id": 39,
+    "category": "Dairy",
+    "name": "Butter - Unsalted",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40069116_3-amul-unsalted-butter.jpg?tr=w-3840,q=80",
+    "price": 57
+  },
+  {
+    "id": 40,
+    "category": "Dairy",
+    "name": "GoodLife UHT Treated Toned Milk",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/100285703_15-nandini-goodlife-toned-milk.jpg?tr=w-3840,q=80",
+    "price": 61
+  },
+  {
+    "id": 41,
+    "category": "Dairy",
+    "name": "Paneer - Premium Fresh",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/1200164_3-milky-mist-paneer-premium-fresh.jpg?tr=w-3840,q=80",
+    "price": 232
+  },
+  {
+    "id": 42,
+    "category": "Bakery",
+    "name": "Black Currant Cookies",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40266609_3-cookieman-black-currant-cookies-fresh-baked-australian.jpg?tr=w-3840,q=80",
+    "price": 199
+  },
+  {
+    "id": 43,
+    "category": "Dairy",
+    "name": "Masti Buttermilk - Spice",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/180584_8-amul-masti-buttermilk-spice.jpg?tr=w-3840,q=80",
+    "price": 70
+  },
+  {
+    "id": 44,
+    "category": "Dairy",
+    "name": "Cheese Slices - Rich In Protein, Wholesome, No Added Sugar",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/104808_9-amul-cheese-slices.jpg?tr=w-3840,q=80",
+    "price": 134
+  },
+  {
+    "id": 45,
+    "category": "Bakery",
+    "name": "Butter Cashew Cookies",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40266606_3-cookieman-butter-cashew-cookies-fresh-baked-australian.jpg?tr=w-3840,q=80",
+    "price": 220
+  },
+  {
+    "id": 46,
+    "category": "Dairy",
+    "name": "Curd/Dahi - No Preservatives Added",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40276324_2-milky-mist-curd-rich-in-taste-no-added-preservatives.jpg?tr=w-3840,q=80",
+    "price": 38
+  },
+  {
+    "id": 47,
+    "category": "Bakery",
+    "name": "Treat Croissant - Cocoa Creme Filling, 100% Veg, Soft",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/1214334_5-britannia-treat-croissant-cocoa-creme-roll-100-veg.jpg?tr=w-3840,q=80",
+    "price": 93
+  },
+  {
+    "id": 48,
+    "category": "Dairy",
+    "name": "Lactose Free Milk",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40049915_5-amul-lactose-free-milk.jpg?tr=w-3840,q=80",
+    "price": 25
+  },
+  {
+    "id": 49,
+    "category": "Dairy",
+    "name": "Ultimate Malai Paneer - Fresh, High Protein",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40189284_2-mother-dairy-ultimate-paneer-fresh-high-protein.jpg?tr=w-3840,q=80",
+    "price": 88
+  },
+  {
+    "id": 50,
+    "category": "Bakery",
+    "name": "Ginger Oats Cookies - Vegan, Rich In Antioxidants, Fibre & Omega 3",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40006627_3-milky-mist-cooking-butter-unsalted.jpg?tr=w-3840,q=80",
+    "price": 225
+  },
+  {
+    "id": 51,
+    "category": "Dairy",
+    "name": "Cooking Butter - Unsalted, Pasteurised, Vitamin D",
+    "image": "https://www.bigbasket.com/media/uploads/p/m/40003150_4-milky-mist-paneer-premium-fresh.jpg?tr=w-3840,q=80",
+    "price": 312
   }
 ]
 }
